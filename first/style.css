@@ -1,0 +1,9 @@
+html, body {
+	height: 100%;
+}
+
+.bar {
+	background-color: #aaa;
+	height: 20%;
+	width: 100%;
+}
