@@ -40,6 +40,7 @@ html, body {
 	font-family: "Arial", "sans-serif";
 	font-size: .85em;
 	bottom: 0; /* http://stackoverflow.com/a/7301735 */
+	background: url("https://duckduckgo.com/assets/logo_homepage.normal.v105.png") no-repeat center center
 }
 
 .img-placeholder img {
